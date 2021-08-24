@@ -1,0 +1,60 @@
+------------Original Code------------------
+.container {
+
+}
+
+.card {
+
+}
+
+p.date {
+
+}
+
+h3 {
+
+}
+-------------My Code-----------------------
+.container {
+    background: lightblue;
+}
+
+.card {
+    margin: 1.75em;
+    padding: 0.5em;
+}
+
+p.date {
+    text-align: left;
+    color: black;
+}
+
+h3 {
+  text-align: left;
+  color: black;
+  font-size: 25px;
+  margin-bottom: 10px;
+}
+----------Instructor's Code------------------
+.container {
+    width: 90%;
+}
+
+.card {
+    background: #2C3031;
+    padding: 1.5em;
+}
+
+p.date {
+    text-transform: uppercase;
+    font-size: .75em;
+    letter-spacing: .1em;
+    color: #7A8587;
+    margin-bottom: .4em;
+}
+
+h3 {
+    margin: 0 0 .3em;
+    color: #B6EAFF;
+    font-size: 1.8em;
+}
